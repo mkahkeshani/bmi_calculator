@@ -1,6 +1,6 @@
 # bmi_calculator
 
-A new Flutter project.
+Tis is my second flutter project.This project is actually a program for measuring body mass index, which is measured in three levels by entering height and weight by the user. I did not use state management packages in this project and only used Flutter packages
 
 ## Getting Started
 
